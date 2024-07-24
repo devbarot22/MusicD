@@ -1,0 +1,105 @@
+
+{ 
+  "courses": [
+  {
+    "id": 1,
+    "title": "Beginner Guitar Lessons",
+    "slug": "beginner-guitar-lessons",
+    "description": "Learn the basics of playing the guitar, including chords, strumming, and simple songs.",
+    "price": 49.99,
+    "instructor": "John Doe",
+    "isFeatured": true,
+    "image": "https://images.stockcake.com/public/a/c/e/ace19a7e-58eb-4048-b61b-e551af3dde09_large/guitar-playing-close-up-stockcake.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Guitar Techniques",
+    "slug": "advanced-guitar-techniques",
+    "description": "Master advanced guitar techniques and take your playing to the next level.",
+    "price": 79.99,
+    "instructor": "Jane Smith",
+    "isFeatured": false,
+    "image": "https://images.stockcake.com/public/2/4/1/2413d080-7c4e-443a-b394-d161507e5dbb_large/guitar-playing-closeup-stockcake.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Singing",
+    "slug": "introduction-to-singing",
+    "description": "Learn the fundamentals of singing, including breath control, pitch, and tone.",
+    "price": 59.99,
+    "instructor": "Emily Johnson",
+    "isFeatured": true,
+    "image": "https://images.stockcake.com/public/2/c/e/2ce8ec7e-6e1a-470a-85fc-90be95bfda0a_large/animated-frog-singing-stockcake.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Music Theory Basics",
+    "slug": "music-theory-basics",
+    "description": "Understand the basic concepts of music theory to enhance your musical skills.",
+    "price": 39.99,
+    "instructor": "Michael Brown",
+    "isFeatured": false,
+    "image": "https://images.stockcake.com/public/0/3/6/03672a99-ed48-4249-b2f2-641f7777d319_large/orchestra-in-performance-stockcake.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Jazz Piano for Beginners",
+    "slug": "jazz-piano-for-beginners",
+    "description": "Learn to play jazz piano with simple exercises and techniques.",
+    "price": 69.99,
+    "instructor": "Sarah Davis",
+    "isFeatured": true,
+    "image": "https://images.stockcake.com/public/9/6/c/96c493f6-587d-422b-b509-4d5e8907eb89_large/jazz-night-setup-stockcake.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Classical Violin Techniques",
+    "slug": "classical-violin-techniques",
+    "description": "Explore classical violin techniques and improve your playing skills.",
+    "price": 89.99,
+    "instructor": "David Wilson",
+    "isFeatured": false,
+    "image": "https://images.stockcake.com/public/a/0/e/a0ecfb18-de3e-4041-95b1-63d9a058d2fb_large/violin-practice-session-stockcake.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Rock Drumming Essentials",
+    "slug": "rock-drumming-essentials",
+    "description": "Learn the essential techniques and rhythms for rock drumming.",
+    "price": 49.99,
+    "instructor": "Chris Moore",
+    "isFeatured": true,
+    "image": "https://images.stockcake.com/public/f/d/0/fd0134e1-8c17-4e3f-b914-5264e675d8da_large/drum-set-spotlight-stockcake.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Electronic Music Production",
+    "slug": "electronic-music-production",
+    "description": "Discover the basics of producing electronic music using digital audio workstations.",
+    "price": 99.99,
+    "instructor": "Laura Taylor",
+    "isFeatured": false,
+    "image": "https://images.stockcake.com/public/f/2/0/f20a11e4-d9e9-42f0-ab62-68a5259c9b52_large/music-production-studio-stockcake.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Songwriting Fundamentals",
+    "slug": "songwriting-fundamentals",
+    "description": "Learn the basics of songwriting, including lyrics, melody, and structure.",
+    "price": 59.99,
+    "instructor": "Brian Anderson",
+    "isFeatured": true,
+    "image": "https://images.stockcake.com/public/4/f/c/4fc58926-c331-4be3-b2da-77765aabb7ca_large/musicians-writing-songs-stockcake.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Advanced Music Theory",
+    "slug": "advanced-music-theory",
+    "description": "Deepen your understanding of music theory with advanced concepts and techniques.",
+    "price": 79.99,
+    "instructor": "Megan Martinez",
+    "isFeatured": false,
+    "image": "https://images.stockcake.com/public/b/f/f/bffc61b7-f639-47c9-b0fd-bb08180b10bb_large/musical-composition-study-stockcake.jpg"
+  }
+]
+}
