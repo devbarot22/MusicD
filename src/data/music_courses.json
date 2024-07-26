@@ -18,7 +18,7 @@
     "description": "Master advanced guitar techniques and take your playing to the next level.",
     "price": 79.99,
     "instructor": "Jane Smith",
-    "isFeatured": false,
+    "isFeatured": true,
     "image": "https://images.stockcake.com/public/2/4/1/2413d080-7c4e-443a-b394-d161507e5dbb_large/guitar-playing-closeup-stockcake.jpg"
   },
   {
